@@ -48,6 +48,26 @@ Hi, I'm **Musa Ahmadeyan**, a passionate developer skilled in building fast, sca
 
 ---
 
+### 🐍 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/musaahmadeyan/musaahmadeyan/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+
+---
+
+### 💼 Soft Skills
+
+- 🤝 Team Collaboration & Communication  
+- 🧠 Problem Solving & Critical Thinking  
+- ⏱ Time Management & Responsibility  
+- 🎯 Goal-Oriented and Focused  
+- 📚 Fast Learner & Continuous Improvement  
+- 🎨 Creativity in UI/UX Design  
+
+---
+
 ### 📈 Visitors  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=musaahmadeyan&style=flat-square&color=0ab9e6" alt="Profile Views" />
