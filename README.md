@@ -10,8 +10,6 @@ I'm a passionate web developer and software engineer with experience in building
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
@@ -31,6 +29,6 @@ I'm a passionate web developer and software engineer with experience in building
 ---
 
 ### 📫 Contact Me
-- Email: yourname@example.com  
+- Email: ahmadeyan22@gmail.com  
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourname)  
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
