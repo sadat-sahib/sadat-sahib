@@ -1,7 +1,8 @@
 <!-- Hero Header with Typing SVG Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=👋+Hi%2C+I'm+Musa+Ahmadeyan;💻+Web+Developer+%7C+Software+Engineer;🚀+I+love+building+modern+and+efficient+apps!" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=👋+Hi%2C+I'm+Musa+Ahmadeyan;💻+Web+Developer+%7C+Software+Engineer;🚀+I+love+building+modern+and+efficient+apps!" alt="Typing SVG" />
+</p>
+
 
 ---
 
