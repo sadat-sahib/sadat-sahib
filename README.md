@@ -73,5 +73,5 @@ Hi, I'm **Musa Ahmadeyan**, a passionate developer skilled in building fast, sca
 ### 📫 Contact Me
 
 - 📧 Email: [ahmadeyan22@gmail.com](mailto:ahmadeyan22@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- 🔗 LinkedIn: [[linkedin.com/in/yourname](https://linkedin.com/in/yourname](https://www.linkedin.com/in/musa-ahmadeyan-204273284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))  
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
