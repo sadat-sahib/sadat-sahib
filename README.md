@@ -68,12 +68,7 @@ Hi, I'm **Musa Ahmadeyan**, a passionate developer skilled in building fast, sca
 
 ---
 
-### 📈 Visitors  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=musaahmadeyan&style=flat-square&color=0ab9e6" alt="Profile Views" />
-</p>
 
----
 
 ### 📫 Contact Me
 
