@@ -53,12 +53,7 @@ Hi, I'm **Musa Ahmadeyan**, a passionate developer skilled in building fast, sca
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/sadat-sahib">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadat-sahib&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true&hide=issues" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadat-sahib&layout=compact&theme=algolia&hide_border=true&langs_count=6" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/sadat-sahib">
