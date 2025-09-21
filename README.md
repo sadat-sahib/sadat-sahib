@@ -49,13 +49,24 @@ Hi, I'm **Musa Ahmadeyan**, a passionate developer skilled in building fast, sca
 ---
 
 
-### 🔥 GitHub Streaks
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sadat-sahib/sadat-sahib/main/.github/streaks/current-streak.svg" alt="Current streak" />
-  <img src="https://raw.githubusercontent.com/sadat-sahib/sadat-sahib/main/.github/streaks/longest-streak.svg" alt="Longest streak" />
+  <a href="https://github.com/MohammadKazim2001">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadKazim2001&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true&hide=issues" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadKazim2001&layout=compact&theme=algolia&hide_border=true&langs_count=6" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/MohammadKazim2001">
+    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadKazim2001&theme=algolia&hide_border=true&background=00000000" />
+  </a>
+</p>
+
+---
 
 
 
