@@ -49,6 +49,12 @@ Hi, I'm **Musa Ahmadeyan**, a passionate developer skilled in building fast, sca
 ---
 
 
+### 🔥 GitHub Streaks
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sadat-sahib/sadat-sahib/main/.github/streaks/current-streak.svg" alt="Current streak" />
+  <img src="https://raw.githubusercontent.com/sadat-sahib/sadat-sahib/main/.github/streaks/longest-streak.svg" alt="Longest streak" />
+</p>
 
 
 
