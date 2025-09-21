@@ -1,0 +1,32 @@
+name: Update GitHub Streak Badges
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # every day at 00:00 UTC
+  workflow_dispatch:      # allows manual trigger
+
+jobs:
+  update-streaks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate streak badges
+        run: node .github/scripts/generate-streak-badges.js sadat-sahib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push badges
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update github streak badges"
+          file_pattern: ".github/streaks/*"
